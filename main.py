@@ -1,4 +1,3 @@
-
 def unit_conversion(number, source, destination, selected_unit):
 
     base_value = number * selected_unit[source]
@@ -37,7 +36,7 @@ length_unit = {
     "km": 1000,
     "inch": 0.0254,
     "foot": 0.3048,
-    "mile": 1609.344
+    "miles": 1609.344
 }
 
 weight_unit = {
@@ -45,8 +44,7 @@ weight_unit = {
     "g": 0.001,
     "kg": 1,
     "tonne": 1000,
-    "pound": 0.45359237,
-    "ounce": 0.028349523125
+    "pound": 0.45359237
 }
 
 temperature_unit = {
@@ -56,11 +54,11 @@ temperature_unit = {
 }
 
 time_unit = {
-    "ms": 0.001,
-    "sec": 1,
-    "min": 60,
-    "hour": 3600,
-    "day": 86400
+    "milliseconds": 0.001,
+    "seconds": 1,
+    "minutes": 60,
+    "hours": 3600,
+    "days": 86400
 }
 
 
