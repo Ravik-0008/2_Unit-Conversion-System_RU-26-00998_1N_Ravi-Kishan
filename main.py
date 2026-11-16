@@ -93,7 +93,7 @@ while True:
         break
 
     else:
-        print("Invalid category! Please select a valid option.")
+        print("Invalid choice. Select 1 to 4.")
         continue
 
 
