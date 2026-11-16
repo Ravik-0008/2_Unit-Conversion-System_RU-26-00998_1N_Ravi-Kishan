@@ -36,7 +36,7 @@ length_unit = {
     "km": 1000,
     "inch": 0.0254,
     "foot": 0.3048,
-    "miles": 1609.344
+    "miles": 1000/0.621371
 }
 
 weight_unit = {
