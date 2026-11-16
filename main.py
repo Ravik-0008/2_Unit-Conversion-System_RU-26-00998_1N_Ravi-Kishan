@@ -147,8 +147,8 @@ while True:
 
 
     print(
-        f"\n{number:g} {source_unit} = "
-        f"{result:g} {destination_unit}"
+        f"\n{number} {source_unit} = "
+        f"{result :.2f} {destination_unit}"
     )
 
 
