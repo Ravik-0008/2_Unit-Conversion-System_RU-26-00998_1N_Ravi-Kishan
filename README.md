@@ -28,11 +28,7 @@ The program uses Python functions, dictionaries, loops, conditional statements, 
   - Exception handling ("try-except")
   - String methods
   - f-strings
-
-Project Structure
-
-How to Run
-
+  - 
 1. Clone the Repository
 
 git clone https://github.com/Ravik-0008/Unit_Conversion/edit/main.py
